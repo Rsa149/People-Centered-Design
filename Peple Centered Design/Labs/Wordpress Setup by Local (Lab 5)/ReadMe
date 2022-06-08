@@ -3,6 +3,7 @@ used historically to create blogs, but has since found wider use, including stat
 
 For this lab I use an application called “Local” by Flywheel to install 
 a local wordpress development site, which can be used for single-user prototyping
-and testing on your local machine without a server.
+and testing on your local machine without a server. In this lab I created 3 pages and block just
+as an inroduction to the wordpress.
 
 Ramanpreet Singh
