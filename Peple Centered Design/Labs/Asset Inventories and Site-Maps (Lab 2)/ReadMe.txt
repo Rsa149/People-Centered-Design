@@ -4,4 +4,6 @@ completed using a spreadsheet application. These activities broadly fall under t
 Information Architecture, which has roots in Library science (organizing and prioritizing content),
 and Cognitive Psychology (making it quick to learn, easy to understand and navigate).
 
+I did asset inventory on the website of [The Owl](https://www.lazyowlyqr.ca)
+
 Ramanpreet Singh
