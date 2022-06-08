@@ -1,0 +1,8 @@
+Wordpress is a free open source (FOSS) content management system (CMS) for the web,
+used historically to create blogs, but has since found wider use, including static and e-commerce sites.
+
+For this lab I use an application called “Local” by Flywheel to install 
+a local wordpress development site, which can be used for single-user prototyping
+and testing on your local machine without a server.
+
+Ramanpreet Singh
